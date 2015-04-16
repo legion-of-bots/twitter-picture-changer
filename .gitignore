@@ -1,0 +1,4 @@
+/node_modules
+/public
+/config/twitter.json
+.DS_Store
