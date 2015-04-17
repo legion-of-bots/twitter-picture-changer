@@ -1,3 +1,3 @@
 #!/usr/bin/env node
 
-require('./../rotate-and-change-pic.js');
+require('./../rotate-and-change-pic');
